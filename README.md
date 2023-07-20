@@ -15,12 +15,12 @@ como estão organizados, realizar limpeza e transformação dos dados conforme n
 detectar eventuais padrões e diagnósticos e ao final emitir um parecer com um resumo sobre os
 dados
 
-## Imagens do Projeto
+## Algumas das Imagens do Projeto
 
-<img src="https://github.com/jeffersonAsilva/Gera-o-Tech-Unimed-BH_covid19/blob/main/mortes_por_covid.png">
+<img src="https://github.com/jeffersonAsilva/Analise_de_Dados_de_RH/blob/main/img1.png">
 
-<img src="https://github.com/jeffersonAsilva/Gera-o-Tech-Unimed-BH_covid19/blob/main/previsao_arima.png">
+<img src="https://github.com/jeffersonAsilva/Analise_de_Dados_de_RH/blob/main/img2.png">
 
-<img src="https://github.com/jeffersonAsilva/Gera-o-Tech-Unimed-BH_covid19/blob/main/previsao_profeta.png">
+<img src="https://github.com/jeffersonAsilva/Analise_de_Dados_de_RH/blob/main/img3.png">
 
-<img src="https://github.com/jeffersonAsilva/Gera-o-Tech-Unimed-BH_covid19/blob/main/taxa_diaria.png">
+<img src="https://github.com/jeffersonAsilva/Analise_de_Dados_de_RH/blob/main/img4.png">
